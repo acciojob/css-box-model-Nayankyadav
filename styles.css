@@ -3,7 +3,7 @@
 
 #box{
 	width: 300px;
-	background-color: lightblue;
+	background-color: 15px solid rgb(0, 0, 255);
 	border: 15px;
 	padding: 50px;
 	margin: 20px;
